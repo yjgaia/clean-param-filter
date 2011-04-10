@@ -47,7 +47,6 @@ public class CleanParamFilter implements Filter {
 				}
 			}
 		}
-		System.out.println("테스트 입니다.");
 		chain.doFilter(request, response);
 	}
 
