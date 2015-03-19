@@ -2,7 +2,7 @@ CleanParamFilter
 ================
 파라미터를 깔끔하게 만드는 필터
 
-* 이 프로젝트는 Google Code에서 이전되었습니다.
+* *이 프로젝트는 Google Code로부터 이전되었습니다.*
 * CleanParamFilter 소개 - http://blog.mr.hanul.co/2011/02/clean-param-filter.html
 
 1. 불필요한 공백 제거 기능
